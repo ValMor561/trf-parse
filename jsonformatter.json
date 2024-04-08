@@ -1,0 +1,2030 @@
+{
+  "content": [
+    {
+      "id": "25c89ff6",
+      "settings": {
+        "flex_direction": "row",
+        "flex_gap": {
+          "unit": "px",
+          "size": 30,
+          "column": "030",
+          "row": "030",
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "6df57dd",
+          "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": "50"
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            }
+          },
+          "elements": [
+            {
+              "id": "213f75cd",
+              "settings": {
+                "image": {
+                  "url": "http://evkeev.online/wp-content/uploads/2024/03/TRF_D20_35-4_.webp",
+                  "id": 100,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "image_size": "full"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "2aad71bc",
+          "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": "50"
+            },
+            "flex_justify_content": "center",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            }
+          },
+          "elements": [
+            {
+              "id": "641b31c3",
+              "settings": {
+                "title": "Дизельный вилочный погрузчик TRF D30-3X (CPCD30)",
+                "title_color": "#000000",
+                "typography_typography": "custom",
+                "typography_font_family": "Arial",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 40,
+                  "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "67c9889b",
+              "settings": {
+                "text": "Получить КП",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "background_color": "#FF5F2E",
+                "align_mobile": "center"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "button",
+              "elType": "widget"
+            },
+            {
+              "id": "66927af7",
+              "settings": {
+                "editor": "<p>Грузоподъемность — 3000 кг<br />Высота подъема — 3000 мм<br />Тип двигателя — дизельный<br /><br />Бесплатная доставка до вашего склада<br />Гарантия — 1 год или 1000 моточасов</p>",
+                "text_color": "#000000",
+                "typography_typography": "custom",
+                "typography_font_family": "Arial",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_font_weight": "400"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "7d762a77",
+      "settings": {
+        "flex_direction": "row",
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0100",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "783f6b3c",
+          "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 100
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            }
+          },
+          "elements": [
+            {
+              "id": "32d8542a",
+              "settings": {
+                "image": {
+                  "url": "http://evkeev.online/wp-content/uploads/2024/03/D15-3xi-3.webp",
+                  "id": 57,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                },
+                "image_size": "full"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "f257045",
+      "settings": {
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0100",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "68f7a88c",
+          "settings": {
+            "title": "Общие характеристики\n",
+            "title_color": "#000000",
+            "typography_typography": "custom",
+            "typography_font_family": "Arial",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 30,
+              "sizes": []
+            },
+            "typography_font_weight": "600",
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 25,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "600800fd",
+      "settings": {
+        "flex_direction": "column"
+      },
+      "elements": [
+        {
+          "id": "66a6d145",
+          "settings": {
+            "table_header": [
+              {
+                "text": "Характеристики",
+                "_id": "3176835",
+                "advance": "yes",
+                "colspannumber": ""
+              },
+              {
+                "text": "",
+                "_id": "fb6d4cd"
+              },
+              {
+                "text": "Шины",
+                "_id": "fc5afc9"
+              },
+              {
+                "text": "",
+                "advance": "yes",
+                "_id": "73d53a3"
+              }
+            ],
+            "table_body": [
+              {
+                "text": "Производитель",
+                "_id": "ade71ec"
+              },
+              {
+                "text": "TRF",
+                "_id": "c77dc52"
+              },
+              {
+                "text": "Тип шин",
+                "_id": "4cf0653"
+              },
+              {
+                "text": "Пневматические",
+                "_id": "2bef454"
+              },
+              {
+                "_id": "7c3ef68",
+                "row": "yes",
+                "text": "Модель"
+              },
+              {
+                "_id": "c9e7a65",
+                "text": "D15-3\t"
+              },
+              {
+                "_id": "ab7ff83",
+                "text": "Размер передних шин\t"
+              },
+              {
+                "_id": "41d7984",
+                "text": "6.5-10-10PR\n"
+              },
+              {
+                "_id": "bfa12ca",
+                "row": "yes",
+                "text": "Вид топлива\t"
+              },
+              {
+                "_id": "a6a8deb",
+                "text": "Дизельное топливо\t"
+              },
+              {
+                "_id": "1808a40",
+                "text": "Размер задних шин\t"
+              },
+              {
+                "_id": "473d47f",
+                "text": "5.00-8-10PR\n"
+              },
+              {
+                "_id": "0e1bc2a",
+                "row": "yes",
+                "text": "Грузоподъемность\t"
+              },
+              {
+                "_id": "d2aec53",
+                "text": "1500"
+              },
+              {
+                "_id": "0f6825a",
+                "text": "Макс.скорость движения, с грузом/без груза , км/ч\t"
+              },
+              {
+                "_id": "ec6e3e6",
+                "text": "14/15\n"
+              },
+              {
+                "_id": "843f4ec",
+                "row": "yes",
+                "text": "Центр тяжести\t"
+              },
+              {
+                "_id": "17cc90f",
+                "text": "500\t"
+              },
+              {
+                "_id": "a01dc66",
+                "text": "Макс.скорость подъема, с грузом/без груза , мм/с\t"
+              },
+              {
+                "_id": "89c9267",
+                "text": "480/500"
+              },
+              {
+                "_id": "1c029e6",
+                "row": "yes",
+                "text": "ГАБАРИТНЫЕ РАЗМЕРЫ\t"
+              },
+              {
+                "_id": "49e8691",
+                "text": ""
+              },
+              {
+                "_id": "5a466a3",
+                "text": "Скорость опускания, с грузом/без груза , мм/с\t"
+              },
+              {
+                "_id": "51b9888",
+                "text": "с грузом ≤ 600/без груза ≥ 300"
+              },
+              {
+                "_id": "c7d9679",
+                "row": "yes",
+                "text": "Стандартная макс. высота (с защитной решеткой каретки)\t"
+              },
+              {
+                "_id": "0807cd3",
+                "text": "3906\t"
+              },
+              {
+                "_id": "725a0f7",
+                "text": "Макс. преодолеваемый уклон, с грузом/без груза %\t"
+              },
+              {
+                "_id": "0b0548e",
+                "text": "20\n"
+              },
+              {
+                "_id": "276b2ab",
+                "row": "yes",
+                "text": "Максимальная высота подъема (стандартная)\t"
+              },
+              {
+                "_id": "bf4b6f2",
+                "text": "3000"
+              },
+              {
+                "_id": "614287f",
+                "text": "Стд.эксплуатационная масса (с полными заправочными емкостями) , кг\t"
+              },
+              {
+                "_id": "ce07702",
+                "text": "2680"
+              },
+              {
+                "_id": "2239271",
+                "row": "yes",
+                "text": "Высота по крыше\t"
+              },
+              {
+                "_id": "fcd3be2",
+                "text": "2090"
+              },
+              {
+                "_id": "0315c5b",
+                "text": "Нагрузка на мост, передний/задний (с грузом) , кг\t"
+              },
+              {
+                "_id": "c7d30e7",
+                "text": "3760/420\n"
+              },
+              {
+                "_id": "205c57c",
+                "row": "yes",
+                "text": "Общая длина (с вилами)\t"
+              },
+              {
+                "_id": "5f2e897",
+                "text": "3180"
+              },
+              {
+                "_id": "117de8d",
+                "text": "Нагрузка на мост, передний/задний (без груза) , кг\t"
+              },
+              {
+                "_id": "f169717",
+                "text": "1072/1608\n"
+              },
+              {
+                "_id": "af4fdc9",
+                "row": "yes",
+                "text": "Колесная база\t"
+              },
+              {
+                "_id": "8be58da",
+                "text": "1400\t"
+              },
+              {
+                "_id": "3ee2983",
+                "text": "Основной тормоз\t"
+              },
+              {
+                "_id": "dc0d0cd",
+                "text": "Тормоз с усилителем\n"
+              },
+              {
+                "_id": "69d2751",
+                "row": "yes",
+                "text": "Передний свес\t"
+              },
+              {
+                "_id": "f5a0728",
+                "text": "410"
+              },
+              {
+                "_id": "a48e227",
+                "text": "Стояночный тормоз\t"
+              },
+              {
+                "_id": "9ba4959",
+                "text": "Механический ручной тормоз с рычажным управлением\n"
+              },
+              {
+                "_id": "bb4d690",
+                "row": "yes",
+                "text": "Задний свес\t"
+              },
+              {
+                "_id": "6ebf5c9",
+                "text": "425"
+              },
+              {
+                "_id": "f97ed85",
+                "text": "Тип привода\t"
+              },
+              {
+                "_id": "440825a",
+                "text": "Механический ручной тормоз с рычажным управлением\n"
+              },
+              {
+                "_id": "1ffe1f4",
+                "row": "yes",
+                "text": "Минимальный дорожный просвет (Рама/Мачта)\t"
+              },
+              {
+                "_id": "b8e305c",
+                "text": "100/105\t"
+              },
+              {
+                "_id": "7a878fb",
+                "text": "Объем топливного бака , л\t"
+              },
+              {
+                "_id": "88291a9",
+                "text": "41"
+              },
+              {
+                "_id": "822faee",
+                "row": "yes",
+                "text": "Общая ширина\t"
+              },
+              {
+                "_id": "3937226",
+                "text": "1090\t"
+              },
+              {
+                "_id": "72bd659",
+                "text": "Напряжение/Емкость аккумулятора , В/А*ч\t"
+              },
+              {
+                "_id": "4136a21",
+                "text": "12/60\n"
+              },
+              {
+                "_id": "1ef96a5",
+                "row": "yes",
+                "text": "Расстояние между вилами (по внешнему краю)\t"
+              },
+              {
+                "_id": "cff8d52",
+                "text": "226-970"
+              },
+              {
+                "_id": "1776f98",
+                "text": "ДВИГАТЕЛЬ\t"
+              },
+              {
+                "_id": "9da7b88",
+                "text": ""
+              },
+              {
+                "_id": "1cbcb72",
+                "row": "yes",
+                "text": "Стандартный размер вил (L5*W*T)\t"
+              },
+              {
+                "_id": "6502d9c",
+                "text": "920×100×35\t"
+              },
+              {
+                "_id": "649f243",
+                "text": "Модель"
+              },
+              {
+                "_id": "1b86f03",
+                "text": "NC485BPG\n"
+              },
+              {
+                "_id": "b6d52f9",
+                "row": "yes",
+                "text": "Ширина колеи (передние колеса)\t"
+              },
+              {
+                "_id": "3d7fed2",
+                "text": "890"
+              },
+              {
+                "_id": "dcdf80a",
+                "text": "Эк.класс\t"
+              },
+              {
+                "_id": "8ca1d4d",
+                "text": "CHN II\n"
+              },
+              {
+                "_id": "0c0592b",
+                "row": "yes",
+                "text": "Ширина колеи (задние колеса)\t"
+              },
+              {
+                "_id": "7dd61ff",
+                "text": "870\t"
+              },
+              {
+                "_id": "4f38ec7",
+                "text": "Производитель\t"
+              },
+              {
+                "_id": "f5f20f8",
+                "text": "XINCHAI"
+              },
+              {
+                "_id": "3c37a90",
+                "row": "yes",
+                "text": "Мин. радиус поворота\t"
+              },
+              {
+                "_id": "ce299e0",
+                "text": "1950\t"
+              },
+              {
+                "_id": "3fb9799",
+                "text": "Ном.мощность\t"
+              },
+              {
+                "_id": "4540cf6",
+                "text": "30кВт/2600об/мин\n"
+              },
+              {
+                "_id": "6313523",
+                "row": "yes",
+                "text": "Мин. ширина рабочего прохода для поддона 1000×1200, поперечно\t"
+              },
+              {
+                "_id": "9517776",
+                "text": "3630"
+              },
+              {
+                "_id": "af0bccb",
+                "text": "Макс.крут.момент\t"
+              },
+              {
+                "_id": "4fbe08e",
+                "text": "131Н*м/1800об/мин\n"
+              },
+              {
+                "_id": "06fd8dc",
+                "row": "yes",
+                "text": "Мин. ширина рабочего прохода для поддона 800×1200, продольно\t"
+              },
+              {
+                "_id": "3dd6e17",
+                "text": "3760\t"
+              },
+              {
+                "_id": "0bf788f",
+                "text": "Диам.цилиндра/Кол-во цил./Объем\t"
+              },
+              {
+                "_id": "36aa660",
+                "text": "85мм/4/2.27л\n"
+              },
+              {
+                "_id": "8748b97",
+                "row": "yes",
+                "text": "Кол-во колес, передние/задние (X=ведомые колеса)\t"
+              },
+              {
+                "_id": "9f58645",
+                "text": "X=2/2\t"
+              },
+              {
+                "_id": "6d4fb6e",
+                "text": "Расход топлива\t"
+              },
+              {
+                "_id": "acfff0b",
+                "text": "235г/кВт*ч\n"
+              },
+              {
+                "_id": "6b77cd5",
+                "row": "yes",
+                "text": ""
+              },
+              {
+                "_id": "a99f1ad",
+                "text": ""
+              },
+              {
+                "_id": "7afdcf7",
+                "text": "Прим-сть\t"
+              },
+              {
+                "_id": "ffa9b85",
+                "text": "D15-3Х\n"
+              }
+            ],
+            "table_padding": {
+              "unit": "px",
+              "top": "1",
+              "right": "1",
+              "bottom": "1",
+              "left": "1",
+              "isLinked": true
+            },
+            "table_border_border": "solid",
+            "table_border_width": {
+              "unit": "px",
+              "top": "0",
+              "right": "5",
+              "bottom": "0",
+              "left": "5",
+              "isLinked": false
+            },
+            "table_border_color": "#FFFFFF",
+            "header_text_color": "#000000",
+            "header_bg_color": "#E5EEFF",
+            "body_align": "left",
+            "body_typography_typography": "custom",
+            "body_typography_font_family": "Arial",
+            "body_typography_font_size": {
+              "unit": "px",
+              "size": 16,
+              "sizes": []
+            },
+            "body_typography_font_weight": "600",
+            "body_bg_color": "#FFFFFF00",
+            "striped_bg": "yes",
+            "striped_bg_color": "#E5EEFF",
+            "header_typography_typography": "custom",
+            "body_typography_font_size_mobile": {
+              "unit": "px",
+              "size": 13,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "Table",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "43cae2a0",
+      "settings": {
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0100",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "26bebe76",
+          "settings": {
+            "image": {
+              "url": "http://evkeev.online/wp-content/uploads/2024/03/Dizelnyy_vilochnyywi-1.webp",
+              "id": 65,
+              "size": "",
+              "alt": "",
+              "source": "library"
+            },
+            "image_size": "full"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "image",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "786291e",
+      "settings": {
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "405f8787",
+          "settings": {
+            "title": "Отличительные особенности",
+            "align": "center",
+            "title_color": "#000000",
+            "typography_typography": "custom",
+            "typography_font_family": "Arial",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 42,
+              "sizes": []
+            },
+            "typography_font_weight": "600",
+            "typography_font_size_mobile": {
+              "unit": "px",
+              "size": 25,
+              "sizes": []
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "5c083af7",
+      "settings": {
+        "flex_direction": "row",
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "050",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "4dbedf48",
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 33.33
+            },
+            "flex_gap": {
+              "column": "30",
+              "row": "30",
+              "isLinked": true,
+              "unit": "px",
+              "size": 30
+            }
+          },
+          "elements": [
+            {
+              "id": "6ca1a5a",
+              "settings": {
+                "social_icon_list": [
+                  {
+                    "social_icon": {
+                      "value": "fab fa-facebook",
+                      "library": "fa-brands"
+                    },
+                    "_id": "9f14276"
+                  }
+                ],
+                "shape": "circle",
+                "icon_color": "custom",
+                "icon_primary_color": "#1F5BFF",
+                "icon_secondary_color": "#1F5BFF",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "social-icons",
+              "elType": "widget"
+            },
+            {
+              "id": "6ea82562",
+              "settings": {
+                "flex_gap": {
+                  "column": "020",
+                  "row": "020",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 20
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "3a98e27f",
+                  "settings": {
+                    "title": "Высокая надежность\n",
+                    "title_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "3fcee701",
+                  "settings": {
+                    "editor": "<p>Новый дизайн противовеса смещает центр тяжести машины назад, увеличивая грузоподъемность и повышая безопасность работы с грузами.</p>",
+                    "text_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "6226065c",
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 33.33
+            },
+            "flex_gap": {
+              "column": "30",
+              "row": "30",
+              "isLinked": true,
+              "unit": "px",
+              "size": 30
+            }
+          },
+          "elements": [
+            {
+              "id": "760a688a",
+              "settings": {
+                "social_icon_list": [
+                  {
+                    "social_icon": {
+                      "value": "fab fa-facebook",
+                      "library": "fa-brands"
+                    },
+                    "_id": "9f14276"
+                  }
+                ],
+                "shape": "circle",
+                "icon_color": "custom",
+                "icon_primary_color": "#1F5BFF",
+                "icon_secondary_color": "#1F5BFF",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "social-icons",
+              "elType": "widget"
+            },
+            {
+              "id": "5980e4fb",
+              "settings": {
+                "flex_gap": {
+                  "column": "020",
+                  "row": "020",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 20
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "55153f6c",
+                  "settings": {
+                    "title": "Энергоэффективность",
+                    "title_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "16992a06",
+                  "settings": {
+                    "editor": "<p>Улучшенный дизайн системы охлаждения и вентиляции. Циклонный воздушный фильтр высокой производительности.</p>",
+                    "text_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "2f8b5459",
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 33.33
+            },
+            "flex_gap": {
+              "column": "30",
+              "row": "30",
+              "isLinked": true,
+              "unit": "px",
+              "size": 30
+            }
+          },
+          "elements": [
+            {
+              "id": "960b9a7",
+              "settings": {
+                "social_icon_list": [
+                  {
+                    "social_icon": {
+                      "value": "fab fa-facebook",
+                      "library": "fa-brands"
+                    },
+                    "_id": "9f14276"
+                  }
+                ],
+                "shape": "circle",
+                "icon_color": "custom",
+                "icon_primary_color": "#1F5BFF",
+                "icon_secondary_color": "#1F5BFF",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "social-icons",
+              "elType": "widget"
+            },
+            {
+              "id": "4b35c8e5",
+              "settings": {
+                "flex_gap": {
+                  "column": "020",
+                  "row": "020",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 20
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "2681128a",
+                  "settings": {
+                    "title": "Комфорт оператора\n",
+                    "title_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "7459b359",
+                  "settings": {
+                    "editor": "<p>Интерактивный и эргономичный дизайн обеспечивает удобство в работе оператора. Мачта с широким обзором обеспечивает безопасность в работе.</p>",
+                    "text_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "5c6286b7",
+      "settings": {
+        "flex_direction": "row",
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "030",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "35275027",
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 33.33
+            },
+            "flex_gap": {
+              "column": "30",
+              "row": "30",
+              "isLinked": true,
+              "unit": "px",
+              "size": 30
+            }
+          },
+          "elements": [
+            {
+              "id": "771e2d62",
+              "settings": {
+                "social_icon_list": [
+                  {
+                    "social_icon": {
+                      "value": "fab fa-facebook",
+                      "library": "fa-brands"
+                    },
+                    "_id": "9f14276"
+                  }
+                ],
+                "shape": "circle",
+                "icon_color": "custom",
+                "icon_primary_color": "#1F5BFF",
+                "icon_secondary_color": "#1F5BFF",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "social-icons",
+              "elType": "widget"
+            },
+            {
+              "id": "2f027bab",
+              "settings": {
+                "flex_gap": {
+                  "column": "020",
+                  "row": "020",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 20
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "1fe6a2c",
+                  "settings": {
+                    "title": "Удобная регулировка\n",
+                    "title_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "616e97a3",
+                  "settings": {
+                    "editor": "<div class=\"t502__tablewrapper\"><div class=\"t502__textwrapper\"><div class=\"t502__blockdescr t-descr t-descr_xs\">Возможность регулировки рулевого колеса для удобства выполнения различных работ.</div></div></div>",
+                    "text_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "10b00780",
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 33.33
+            },
+            "flex_gap": {
+              "column": "30",
+              "row": "30",
+              "isLinked": true,
+              "unit": "px",
+              "size": 30
+            }
+          },
+          "elements": [
+            {
+              "id": "50ec4e8d",
+              "settings": {
+                "social_icon_list": [
+                  {
+                    "social_icon": {
+                      "value": "fab fa-facebook",
+                      "library": "fa-brands"
+                    },
+                    "_id": "9f14276"
+                  }
+                ],
+                "shape": "circle",
+                "icon_color": "custom",
+                "icon_primary_color": "#1F5BFF",
+                "icon_secondary_color": "#1F5BFF",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "social-icons",
+              "elType": "widget"
+            },
+            {
+              "id": "605d4a23",
+              "settings": {
+                "flex_gap": {
+                  "column": "020",
+                  "row": "020",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 20
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "3ca72651",
+                  "settings": {
+                    "title": "Удобное техническое обслуживание\n",
+                    "title_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "4fd2d422",
+                  "settings": {
+                    "editor": "<div class=\"t502__tablewrapper\"><div class=\"t502__textwrapper\"><div class=\"t502__blockdescr t-descr t-descr_xs\">Увеличенное пространство для узлов и деталей, а также более удобное их расположение обеспечивают удобство в обслуживании машины.</div></div></div>",
+                    "text_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "4a1a534b",
+          "settings": {
+            "flex_direction": "row",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 33.33
+            },
+            "flex_gap": {
+              "column": "30",
+              "row": "30",
+              "isLinked": true,
+              "unit": "px",
+              "size": 30
+            }
+          },
+          "elements": [
+            {
+              "id": "261f6144",
+              "settings": {
+                "social_icon_list": [
+                  {
+                    "social_icon": {
+                      "value": "fab fa-facebook",
+                      "library": "fa-brands"
+                    },
+                    "_id": "9f14276"
+                  }
+                ],
+                "shape": "circle",
+                "icon_color": "custom",
+                "icon_primary_color": "#1F5BFF",
+                "icon_secondary_color": "#1F5BFF",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "social-icons",
+              "elType": "widget"
+            },
+            {
+              "id": "36d36d03",
+              "settings": {
+                "flex_gap": {
+                  "column": "020",
+                  "row": "020",
+                  "isLinked": true,
+                  "unit": "px",
+                  "size": 20
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "288ccc4a",
+                  "settings": {
+                    "title": "Отличительные особенности\n",
+                    "title_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 20,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "600"
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "elType": "widget"
+                },
+                {
+                  "id": "7a7a4eeb",
+                  "settings": {
+                    "editor": "<p>Дизайн рамы и верхней защитной решетки снижает вибрацию всей машины и увеличивает прочность рамы.</p>",
+                    "text_color": "#000000",
+                    "typography_typography": "custom",
+                    "typography_font_family": "Roboto",
+                    "typography_font_size": {
+                      "unit": "px",
+                      "size": 16,
+                      "sizes": []
+                    },
+                    "typography_font_weight": "400",
+                    "typography_font_size_mobile": {
+                      "unit": "px",
+                      "size": 13,
+                      "sizes": []
+                    }
+                  },
+                  "elements": [],
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "elType": "widget"
+                }
+              ],
+              "isInner": true,
+              "elType": "container"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "335b8c70",
+      "settings": {
+        "flex_direction": "row",
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0100",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "366ee82e",
+          "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": "50"
+            }
+          },
+          "elements": [
+            {
+              "id": "10566a14",
+              "settings": {
+                "title": "Стандартное оснащение\n",
+                "title_color": "#000000",
+                "typography_typography": "custom",
+                "typography_font_family": "Arial",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 25,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "1e8cb13f",
+              "settings": {
+                "text": "Разделитель",
+                "weight": {
+                  "unit": "px",
+                  "size": 3,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "divider",
+              "elType": "widget"
+            },
+            {
+              "id": "78f4f37",
+              "settings": {
+                "editor": "<ul><li>Автоматическая коробка передач</li><li>Механическое включение заднего хода</li><li>Защитное ограждение водителя</li><li>Защитная накидка от дождя</li><li>Резиновые накладки на педали</li><li>Полуподвесное сиденье оператора</li><li>Двухсекционная мачта с широким обзором</li><li>Каретка ITA класс II и III</li><li>Защитная решетка груза</li><li>Стандартные вилы</li><li>Регулируемая рулевая колонка</li><li>Рычаги подъема и наклона</li><li>2-х секционный гидрораспределительный клапан</li><li>Гидроусилитель рулевого управления</li><li>Фиксирующий клапан цилиндра наклона</li><li>Комбинированная панель приборов</li><li>Счетчик мото/часов</li><li>Датчик уровня масла</li><li>Датчик температуры охлаждающей</li><li>Индикатор заряда аккумулятора</li><li>\"Переключатель безопасности</li><li>нейтрального положения \"</li><li>Индикатор давления масла</li><li>Звуковой сигнал</li><li>Проблесковый маячок LED</li><li>Звуковой сигнал заднего хода</li><li>Зеркало заднего вида</li><li>Сцепка-штифт</li><li>ЗИП (ящик с инструментами)</li></ul>",
+                "text_color": "#000000",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "3ce790c2",
+          "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": "50"
+            }
+          },
+          "elements": [
+            {
+              "id": "26f581ea",
+              "settings": {
+                "title": "Опциональное оснащение\n",
+                "title_color": "#000000",
+                "typography_typography": "custom",
+                "typography_font_family": "Arial",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 25,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "5f373dbb",
+              "settings": {
+                "text": "Разделитель",
+                "weight": {
+                  "unit": "px",
+                  "size": 3,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "divider",
+              "elType": "widget"
+            },
+            {
+              "id": "614682ee",
+              "settings": {
+                "editor": "<ul><li>Механическая коробка передач</li><li>Электрическое включение заднего хода (3/3.5T)</li><li>Цельнолитые шины</li><li>Кабина</li><li>Световая сигнализация</li><li>Подрессоренное сиденье опреатора</li><li>Кондиционер (с кабиной)</li><li>Отопитель (с кабиной)</li><li>Лобовое стекло</li><li>Нейтрализатор выхлопгых газов</li><li>Сдвоенный воздушный фильтр</li><li>Воздушный фильтр в масляной ванне</li><li>Глушитель с искрогасителем</li><li>Комплект светодиодных ламп</li><li>Голосовой сигнал заднего хода</li><li>Электрический вентилятор</li><li>Звуковая и световая сигнализация</li><li>Задний рабочий свет</li><li>Широкая каретка</li><li>Удлинитель вил</li><li>Пыльники цилиндра наклона</li><li>Пыльники рулевого цилиндра</li><li>Окраска на выбор</li><li>Доп.навесное оборудование</li></ul>",
+                "text_color": "#000000",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "26caf23c",
+      "settings": {
+        "flex_direction": "column",
+        "flex_align_items": "center",
+        "margin": {
+          "unit": "px",
+          "top": "0100",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "7b7a09fb",
+          "settings": {
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": 70,
+              "sizes": []
+            },
+            "background_background": "classic",
+            "background_color": "#174783",
+            "border_radius": {
+              "unit": "px",
+              "top": "5",
+              "right": "5",
+              "bottom": "5",
+              "left": "5",
+              "isLinked": true
+            },
+            "padding": {
+              "unit": "px",
+              "top": "050",
+              "right": "050",
+              "bottom": "050",
+              "left": "050",
+              "isLinked": true
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "20",
+              "right": "20",
+              "bottom": "20",
+              "left": "20",
+              "isLinked": true
+            }
+          },
+          "elements": [
+            {
+              "id": "1d5344dc",
+              "settings": {
+                "editor": "<p>Бесплатно доставим в любую точку России<br /><br />Осуществляем доставку одним из способов:</p><ul><li>Автомобильными путями</li><li>Железнодорожными путями</li></ul><p>Скорость доставки зависит от логистической доступности и оптимальности перевозки. Сохранность и целостность груза обеспечивается ограниченным кругом проверенных и надежных перевозчиков, чья ответственность юридически оформлена.</p>",
+                "text_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    },
+    {
+      "id": "5c269178",
+      "settings": {
+        "flex_direction": "row",
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        },
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "0",
+          "bottom": "100",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "384b3e37",
+          "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": "50"
+            }
+          },
+          "elements": [
+            {
+              "id": "41df78c",
+              "settings": {
+                "title": "Оставьте заявку\n",
+                "align": "left",
+                "title_color": "#000000",
+                "typography_typography": "custom",
+                "typography_font_family": "Arial",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 40,
+                  "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 25,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "3280313e",
+              "settings": {
+                "editor": "<p>Мы свяжемся с вами в ближайшее время и проконсультируем.</p>",
+                "text_color": "#000000",
+                "typography_typography": "custom",
+                "typography_font_family": "Arial",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        },
+        {
+          "id": "287de7b6",
+          "settings": {
+            "flex_direction": "column",
+            "content_width": "full",
+            "width": {
+              "unit": "%",
+              "size": "50"
+            }
+          },
+          "elements": [
+            {
+              "id": "739242da",
+              "settings": {
+                "form_name": "New Form",
+                "form_fields": [
+                  {
+                    "custom_id": "name",
+                    "placeholder": "Имя",
+                    "dynamic": {
+                      "active": true
+                    },
+                    "_id": "7bb8794",
+                    "required": "true"
+                  },
+                  {
+                    "_id": "0e9e1e6",
+                    "field_type": "tel",
+                    "placeholder": "+7 (999) 999-99-99",
+                    "required": "true",
+                    "custom_id": "field_0e9e1e6"
+                  },
+                  {
+                    "_id": "a1adc2a",
+                    "field_type": "email",
+                    "placeholder": "Email",
+                    "custom_id": "field_a1adc2a"
+                  },
+                  {
+                    "custom_id": "message",
+                    "field_type": "textarea",
+                    "placeholder": "Комментарий",
+                    "_id": "fe9c388",
+                    "required": "true"
+                  },
+                  {
+                    "_id": "12613f7",
+                    "field_type": "checkbox",
+                    "field_options": "Даю согласие на обработку персональных данных согласно политике конфиденциальности сайта",
+                    "custom_id": "field_12613f7"
+                  }
+                ],
+                "input_size": "md",
+                "button_size": "md",
+                "button_width": "30",
+                "step_next_label": "Next",
+                "step_previous_label": "Previous",
+                "button_text": "Отправить",
+                "email_content": "[all-fields]",
+                "email_content_2": "[all-fields]",
+                "success_message": "Your submission was successful.",
+                "error_message": "Your submission failed because of an error.",
+                "server_message": "Your submission failed because of a server error.",
+                "invalid_message": "Your submission failed because the form is invalid.",
+                "required_field_message": "This field is required.",
+                "label_typography_typography": "custom",
+                "label_typography_font_family": "Roboto",
+                "label_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "label_typography_font_weight": "400",
+                "field_text_color": "#000000",
+                "field_typography_typography": "custom",
+                "field_typography_font_family": "Arial",
+                "field_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "field_typography_font_weight": "400",
+                "button_typography_typography": "custom",
+                "button_typography_font_family": "Arial",
+                "button_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "button_typography_font_weight": "500",
+                "button_background_color": "#174783",
+                "previous_button_background_color": "#174783",
+                "button_background_hover_color": "#FF5F2E"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "form",
+              "elType": "widget"
+            }
+          ],
+          "isInner": true,
+          "elType": "container"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "карточка товара",
+  "type": "single-post"
+}
